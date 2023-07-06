@@ -11,7 +11,7 @@
 <head>
 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-	<title>CITAS MEDICAS PANEL ADMINISTRATIVO</title>
+	<title>CITAS MEDICAS PANEL DEL USUARIO ADMINISTRATIVO </title>
 	<meta content='width=device-width, initial-scale=1.0, shrink-to-fit=no' name='viewport' />
 	<link rel="icon" href="../../assets/img/logo.png" type="image/x-icon"/>
 
